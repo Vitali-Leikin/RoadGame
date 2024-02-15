@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "0lD-95-dFd"; */
+"0lD-95-dFd.normalTitle" = "Настройки";
+
+/* Class = "UIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "3se-jJ-BCC"; */
+"3se-jJ-BCC.normalTitle" = "Повторить";
+
+/* Class = "UILabel"; text = "Соперники"; ObjectID = "L5b-VX-NEc"; */
+"L5b-VX-NEc.text" = "Соперники";
+
+/* Class = "UIButton"; normalTitle = "Next Car"; ObjectID = "L9j-7N-0sG"; */
+"L9j-7N-0sG.normalTitle" = "Следующая";
+
+/* Class = "UILabel"; text = "Машина Игрока"; ObjectID = "Roh-vd-eQK"; */
+"Roh-vd-eQK.text" = "Машина Игрока";
+
+/* Class = "UILabel"; text = "END GAME"; ObjectID = "ZrN-5Z-YoR"; */
+"ZrN-5Z-YoR.text" = "Конец";
+
+/* Class = "UIButton"; normalTitle = "save"; ObjectID = "cXD-Nu-Sbk"; */
+"cXD-Nu-Sbk.normalTitle" = "Сохранить";
+
+/* Class = "UIButton"; normalTitle = "Next Car"; ObjectID = "ePW-vY-AeL"; */
+"ePW-vY-AeL.normalTitle" = "Следующая";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "eiB-jg-gha"; */
+"eiB-jg-gha.normalTitle" = "Старт";
+
+/* Class = "UIButton"; normalTitle = "Points"; ObjectID = "kTI-1F-GNy"; */
+"kTI-1F-GNy.normalTitle" = "Очки";
+
+/* Class = "UIButton"; normalTitle = "Next Car"; ObjectID = "vIM-Yd-RiM"; */
+"vIM-Yd-RiM.normalTitle" = "Следующая";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "vN5-J8-5Tz"; */
+"vN5-J8-5Tz.normalTitle" = "Сохранить";
